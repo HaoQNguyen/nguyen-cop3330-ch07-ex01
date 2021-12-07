@@ -1,7 +1,7 @@
 /*
-	calculator08buggy.cpp | From: Programming -- Principles and Practice Using C++, by Bjarne Stroustrup
-	We have inserted 3 bugs that the compiler will catch and 3 that it won't.
-*/
+ *  UCF COP3330 Fall 2021 Assignment 6 Solution
+ *  Copyright 2021 Hao Nguyen
+ */
 
 #include "std_lib_facilities.h"
 
